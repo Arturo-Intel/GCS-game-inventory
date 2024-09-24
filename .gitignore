@@ -1,0 +1,6 @@
+node_modules
+sso
+.DS_Store
+*.log
+.env.dev
+.vs
